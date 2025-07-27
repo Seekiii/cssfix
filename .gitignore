@@ -1,2 +1,4 @@
 cssfix.*
 dist
+cssfix/__pycache__
+tkn.txt
